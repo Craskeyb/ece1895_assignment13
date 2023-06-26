@@ -1,3 +1,5 @@
+/* Dylan Himes */
+
 int outPin = 8;
 int inPin = 9;
 
