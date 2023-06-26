@@ -1,5 +1,6 @@
 /* Dylan Himes */
 // Aleksa Rodic
+//Chloe Hale
 int outPin = 8;
 int inPin = 9;
 
